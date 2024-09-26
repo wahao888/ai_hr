@@ -1,0 +1,366 @@
+10~11年工作經驗
+後端工程師(1年(含)以下)、經營管理主管(9~10年)
+*多維空間資訊有限公司 程式設計師 2024/01~2024/04（4個月）*
+產業類別 電腦系統整合服務業
+職務類別 後端工程師
+公司規模 1~30人
+工作技能 C#、ASP.NET、Github
+工作內容
+
+導入GitHub及CI/CD自動整合自動佈署
+
+   - 通過導入現代化的開發工具和流程，極大地提高了開發與部署的效率，並降低了因手動部署引起的錯誤率。
+   - 對於提高團隊協作效率有著明顯貢獻，預估使得產品迭代速度提高了15%-20%，同時減少了約30%的部署相關錯誤。
+
+
+政府水保申請流程數位化
+
+   - 完成政府水保申請流程的數位化轉型，整合前後端、實現資料庫CRUD操作。
+   - 根據使用者角色與申請狀態，透過權限管理與狀態機制，動態調整UI展示和數據訪問策略。
+   - 實現參數化查詢，有效預防SQL注入攻擊。
+   - 開發多格式報告生成功能，支持EXCEL、PDF與ODS輸出，透過自動化腳本提升文檔處理效率。
+   - 這一系列措施大幅提升了申請處理速度、系統安全與報告生成的自動化水平，為政府部門節省了顯著的人力與時間成本。
+
+
+公司專案OWASP安全分析
+
+   - 主導進行OWASP安全風險分析，評估並強化了公司應用的安全防護措施。
+   - 通過審查和修復XSS、SQL注入、CSRF等常見的安全漏洞，提升了應用的安全等級。
+   - 實施加密措施和安全配置，確保數據傳輸和存儲的安全性。
+   - 這些努力有效降低了系統遭受網絡攻擊的風險，增強了客戶對公司產品的信任度。
+
+
+公司與政府單位的API串接
+
+   - 實施與政府單一登入ISSO的API串接，提高了使用者身份驗證的安全性與效率，減少了重複登入的需求，並確保了資料交換的安全與隱私。
+   - 實施利用身分證字號通過政府API獲取詳細用戶資訊，優化了用戶體驗，減少了重複資料輸入的需求。
+
+
+
+
+*方克一有限公司 創辦人 2013/07~2023/02（9年8個月）*
+產業類別 食品什貨零售業
+職務類別 經營管理主管
+公司規模 1~30人
+管理責任 需負擔管理責任 , 且直接管理人數約：4人以下
+工作技能 食材成本控制、品牌行銷管理、品牌知名度推廣、行銷策略擬定、提案與簡報技巧、異業合作規劃與執行
+工作內容 經營巧克力店，包含產品研發、產品製作、品牌設計、原料採購、品牌行銷、活動規劃等。
+教育背景
+最高學歷 大學畢業
+最高 國立臺灣大學 農業化學系（2008/09~2012/06 畢業）
+語文能力
+英文 聽/精通、說/中等、讀/精通、寫/精通
+台語 精通
+技能專長
+專 長
+軟體開發
+
+Python
+
+Solidity
+
+C#
+
+JavaScript
+
+HTML5
+
+CSS3
+
+React
+#Python #Machine Learning #JavaScript #HTML #CSS #C# #ReactJS
+
+資料庫與作業系統
+
+MySQL
+
+SQLite
+
+Github
+
+Windows
+
+MacOS
+
+Linux
+#MySQL #Linux #Github
+
+商業設計、UI設計
+
+Illustrator
+
+Photoshop
+
+InDesign
+
+
+#Illustrator #Adobe Photoshop
+
+認證資格
+TQC+：軟體開發知識、基礎程式設計 Python、網頁資料擷取與分析 Python、物件導向程式語言 (Java/C#)
+TQC+ Python 大數據分析專業人員認證
+自傳
+
+*追求程式碼的藝術，編織數位未來*
+
+
+*我叫王OO，是一位具有豐富商業經驗的創業家，熱愛創新和挑戰。除了「Make money」以外，我更希望能「Make
+meaning」(取自蘋果電腦創辦人之一 - 蓋川崎Guy Takeo Kawasaki)。*
+
+
+*大學畢業後的十年：*
+
+*我自己設計並創立了巧克力品牌「Funky
+Chocolate」，吃巧克力能使人們快樂，而快樂就是人生最棒的意義。我以科學為基礎，研究美味與健康的頂級巧克力，同時以自然農法種植可可樹，使環境能永續經營。我也時常到偏鄉幫助弱勢兒童，免費讓偏鄉兒童體驗製作與品嚐巧克力，希望能對社會有微薄的貢獻。*
+
+
+*在公司，所有大小事情一手包辦，包括經營管理、製作開發產品、銷售和課程教學。我善於製作品質精良的巧克力，能夠發掘市場需求，開發出符合顧客需求的產品，並擅長與顧客建立良好的關係。*
+
+
+*我申請通過多項政府計劃(SBIR、SBTR等)、加入台東大學育成中心、TTMaker加速器、好食好事加速器等，除了為公司帶來更多的資金，也讓我有獨自完成整個計畫的能力。我有良好的團隊合作和領導能力，能夠有效地組織和管理團隊，並在壓力下保持穩定和冷靜。這些經驗讓我了解如何解決各種挑戰。*
+
+
+*在創業的路上，我了解如何有效地學習新事物，我自己架設網站，初步認識了HTML與CSS語法，卻在做電子商務時理解到許多理想的功能，不是輕易能夠做出來的。在資金與規模有限的情況下，巧克力事業已經無法再繼續突破，在看不到更遠的未來後，我毅然決然的放下這份已經有穩定收入的事業。*
+
+
+*人生的轉捩點與未來的十年：*
+
+*一趟旅程的結束，卻誘發了長久以來一直尚未萌芽的興趣 -
+軟體工程。國中時我就已經對軟體工程有了興趣，參加網頁設計比賽，並在課餘報名了補習班學習了我的第一個程式語言C++，年少懞懂的我還無法理解程式語言，但卻在心中埋下了一顆種子。*
+
+
+*事隔20年，在2023年初，我全心全意投入軟體工程，完整的學習了Python，心中那埋藏已久的種子終於萌芽。起初通過哈佛線上課程CS50系列，自學Python，以及透過Coursera(by
+Robert Sedgewick and Kevin Wayne)
+學習演算法及資料結構，接著完成聯成電腦「宏碁創達資訊工程師產學專班」，在短短的六個月內，我已經能熟練運用Python、C#、JavaScript、HTML5和CSS3等程式語言，也考取了
+Python、網路資料擷取、C#、軟體開發知識、大數據分析專業人員認證等證照，對軟體工程的強烈熱情與興趣已經一發不可收拾。*
+
+
+*在2023年的10月，我成功建立了一個融合了人工智慧的旅遊網站，能夠利用AI自動產生旅遊行程，運用前後端程式語言，結合Openai、Google
+Maps、Openweather等API，完整的架設、部署網站。*
+
+
+*2023年10-11月，我在 Web3.0/區塊鏈領域，利用 Solidity、Vite、React 和 Tailwind
+CSS等，成功獨立開發了一種基於區塊鏈的募資平台，這個平台不僅允許用戶創建和資助活動，還實現了以太幣作為交易貨幣的創新功能。*
+
+
+*過程中，我追求的不僅僅是現有技能的應用，我希望進一步深入研究新興領域，包括人工智慧（AI）、機器學習（ML）、Web3和區塊鏈（Blockchain）。這些領域代表了未來軟體工程的趨勢，我對它們充滿熱情，並致力於學習和應用相關技術。*
+
+
+*未來的十年，我相信在軟體工程師的道路上，一定能夠為這個世界帶來更多創新和價值。*
+
+
+Pursuing the Art of Code, Weaving the Digital Future
+
+
+My name is Ting-Hao Wang, and I am an entrepreneur with extensive business
+experience, passionate about innovation and challenges. Beyond just "making
+money", I aspire to "make meaning" (Inspired by Guy Takeo Kawasaki,
+co-founder of Apple Computers).
+
+In the decade following my university graduation:
+
+I designed and founded the chocolate brand "Funky Chocolate." Eating
+chocolate brings happiness, and happiness is the best meaning in life. I
+developed top-notch, delicious, and healthy chocolates based on scientific
+research, while cultivating cocoa trees using natural farming methods for
+sustainable environmental management. I often visit rural areas to help
+underprivileged children, offering them free experiences in making and
+tasting chocolate, hoping to contribute modestly to society.
+
+
+In my company, I handle everything from business management, product
+development, sales, to teaching courses. I excel in creating high-quality
+chocolates, identifying market needs, developing products that meet
+customer demands, and building strong relationships with customers.
+
+
+I have successfully applied for various government programs (SBIR, SBTR,
+etc.), joined the Taitung University Incubation Center, TTMaker
+Accelerator, and Good Food Good Accelerator, bringing more funds to my
+company and proving my ability to complete projects independently. My
+teamwork and leadership skills allow me to effectively organize and manage
+teams, maintaining stability and calm under pressure. These experiences
+have taught me how to tackle various challenges.
+
+
+On my entrepreneurial journey, I learned how to effectively learn new
+things. I built websites and initially became acquainted with HTML and CSS
+syntax. However, I realized that many ideal features in e-commerce are not
+easy to implement. With limited funds and scale, I could no longer see a
+future for the chocolate business and decided to leave this stable income
+source behind.
+
+
+
+A turning point and the next decade of my life:
+
+The end of one journey sparked a long-dormant interest in software
+engineering. In junior high, I was already interested in software
+engineering, participated in web design competitions, and learned my first
+programming language, C++, in a cram school. Back then, I couldn't fully
+grasp programming languages, but a seed was planted in my heart.
+
+
+Twenty years later, at the beginning of 2023, I devoted myself to software
+engineering, fully learning Python, and the long-buried seed finally
+sprouted. Initially, I self-taught Python through Harvard's online CS50
+series and learned algorithms and data structures through Coursera (by
+Robert Sedgewick and Kevin Wayne). Then, I completed the "Acer Founders
+Information Engineer Industry-Academia Special Class" at Lien Cheng
+Computer in just six months. I quickly mastered programming languages like
+Python, C#, JavaScript, HTML5, and CSS3. I also obtained certifications in
+Python, web data extraction, C#, software development knowledge, and big
+data analysis. My intense passion and interest in software engineering
+became unstoppable.
+
+
+In October 2023, I successfully built a travel website integrated with
+artificial intelligence that can automatically generate travel itineraries.
+I used frontend and backend programming languages, combining APIs from
+OpenAI, Google Maps, and OpenWeather to fully set up and deploy the website.
+
+
+From October to November 2023, I independently developed a blockchain-based
+fundraising platform in the Web3.0/blockchain domain using Solidity, Vite,
+React, and Tailwind CSS. This platform not only allows users to create and
+fund campaings but also implements innovative features using Ether as the
+transaction currency.
+
+
+Throughout this process, my pursuit has been more than just applying
+existing skills. I aim to delve deeper into emerging areas, including
+Artificial Intelligence (AI), Machine Learning (ML), Web3, and Blockchain.
+These fields represent the future trends in software engineering, and I am
+passionate about learning and applying related technologies.
+
+
+In the next decade, I believe that as a software engineer, I will bring
+more innovation and value to the world.
+
+
+附件
+
+個人網站https://tinghao-wang.github.io/
+English Resume下載檔案
+<https://vip.104.com.tw/download/snapMailAttach/1aa614f63a56d1d6dd2fdd71ea2607694cabe2d4fc746c789b9dc3c7898e91b12389d1ec6cc988e96d744b404303367ddc3e826c8be585c123b4b362caafb524451dc965fc1673441bce8f52fe4af605b09dbaa21e9849356164f08ae27dcf71882af385189b14ca8c088ce0eb12ae63aa5af037817d50ec30fdd72af32266f6fa16b84333f744b601e5cec7c4c4ab52d01c2e0547fe75d526af6aa64e8cd5879e152d2bd4c3fd82a31ee166cb392c852ab47224d0ca8fe1becb7b8e69492cd548cfdbd646a26ce48ac255b16ef16434ff788d6af77b8c52995e4c0f130c01adedb491c8949d8edf25a1e4ab5977925e6eb302ee34e94aa24e2453a67982233138a98f7d285a306c79d4e91579924ccf8d79614673b2cdb0ab5b13e1b75dcbbfacb2875171b5d9bcbc30ba71d0d79dd7f4b6ee70923f6468a57e7e3b384477b32bf4aeb4e3903efc14d1f354f58f19f29fa87114a0c361a5a53fb96989dc8499c8fb6538cdb7cdd392360574b4f775d6b>
+Project-Papago
+https://drive.google.com/drive/folders/1VW6VDJcgo0MPMbvefVEQlQ5Jca5jfqEc?usp=sharing
+專案成就
+
+
+Papago - AI自動產生旅遊行程
+2023/08~2023/10
+
+一個能夠輕鬆產生旅遊行程的網站，出遊再也不必煩惱！
+
+此網站的詳細報告請見附件Project-Papago！
+https://papago-abc54f89f470.herokuapp.com/
+
+
+Web3.0群眾募資網站
+2023/10~進行中
+
+這個網站是一個以web3.0為基礎的募資平台，募資不依賴傳統法幣，而是使用以太幣(ETH)作為交易貨幣，讓用戶能夠利用區塊鏈技術來發起和資助各種創意活動。
+
+我利用 Solidity 編寫智能合約，並選擇 Vite、React 和 Tailwind CSS
+作為前端開發工具，以創建一個既美觀又易於使用的界面，最後網站部署在 Netlify 上。
+
+透過連接 MetaMask 虛擬錢包來進行募資或資助，用戶能創建自己的籌款活動，設定標題、故事描述、截止日期和預計募集的以太幣金額。
+
+而資助只需要輸入想要資助的金額按下送出即可完成。
+
+資助成功後，相關的活動頁面會實時更新，展示剩餘時間、所需資金和已獲資助者數量以及顯示每位資助者錢包位址。
+
+為了測試和展示其功能，我將網站架設在了 Fantom測試網，使用的是 FTM 幣。
+
+目前網站仍在持續建構中。
+https://sensational-conkies-6a5597.netlify.app/
+
+
+Professor-X
+2024/04~進行中
+
+功能介紹:
+
+Professor-X是一個強大的工具，能夠幫助您將YouTube影片或自己上傳的聲音檔案快速轉換成文字稿並整理出重點。這個工具不僅能夠將內容轉錄成文字，還能夠根據您的需求添加時間戳，以便更快速地為您的影片加上字幕。
+
+
+---
+
+
+技術介紹前端技術
+
+   - HTML/CSS/JavaScript: 使用HTML5、CSS3和JavaScript製作響應式設計和動態交互功能。
+   - Bootstrap 4: 提供響應式前端框架設計。
+
+後端技術
+
+   - Python/Flask: 使用Flask框架構建和管理Web服務。
+   - Flask擴展:
+   - Flask-Cors: 處理跨域資源共享，允許前端應用程序從不同域訪問後端API。
+   - Flask-Dance: 進行用戶認證，支援OAuth協議。
+   - Flask-PyMongo: 連接MongoDB數據庫，進行數據操作。
+   - Flask-SocketIO: 實現實時通信功能。
+   - Gunicorn: 作為WSGI HTTP伺服器運行Flask應用程序。
+
+音訊處理
+
+   - yt-dlp: 從YouTube下載音頻內容。
+   - pydub: 處理和轉換音訊文件。
+   - OpenAI API: 進行語音轉文字和文本處理。
+   - imageio和imageio-ffmpeg: 用於音頻文件的讀取和寫入。
+
+支付系統
+
+   - PayPal SDK: 處理付款和訂閱計劃。
+
+身份驗證
+
+   - Google 登入: 使用Flask-Dance串接Google OAuth，提供用戶登入功能。
+
+部署和服務管理
+
+   - AWS Lightsail: 部署和管理網站，提供高可用性和可擴展性。
+   - Ubuntu: 在Ubuntu系統上運行應用，確保穩定性和安全性。
+   - nginx: 作為反向代理伺服器處理客戶端請求。
+   - Systemd: 管理和控制服務的自動啟動和監控。
+   - GitHub Actions: 設置自動部署流程，確保代碼自動化部署到AWS。
+
+資料庫
+
+   - MongoDB: 使用PyMongo進行數據庫操作。
+
+https://professor-x.lillian-ai.com/
+其他作品
+
+
+宏碁創達資訊工程師產學專班
+2023/07~2023/10
+
+聯成與智聯攜手合作開設程式專班課程，透過紮實且實務導向的專業訓練，幫助有志者，直達科技產業。2020
+年正式上櫃的智聯服務佈局全球，專為中小型企業和大型企業提供世界一流的 IT 專業知識及人才外包服務。
+
+
+程式設計：Python, C#, HTML, CSS
+
+物件導向與多工程式設計
+
+資料分析與視覺化：NumPy, Pandas, Matplotlib
+
+資料擷取：Requests, Beautiful Soup4
+
+機器學習與深度學習
+
+後端系統開發：Flask, Django, SQLite, MySQL
+
+Linux系統操作
+
+
+
+<https://vip.104.com.tw/preLogin/appIntro?utm_source=apply&utm_medium=email>
+履歷僅供大門科技顧問有限公司徵才目的使用，請勿違法蒐集或利用。
+建議使用Outlook 2010 以上或 Gmail、Yahoo Mail、Hotmail之最新版本收信軟體，以獲得最佳瀏覽體驗。
+
+本訊息由104人力銀行授權發送，禁止侵害，違者必究。    |     意見回饋
+<https://vip.104.com.tw/feedback/oldVip>
+© 2024 104 Corporation All Rights Reserved
